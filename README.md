@@ -19,9 +19,13 @@ You'll be taken to various locales throughout your journey. Many of them have a 
 
 VII. Levels
 There are four levels, each given names in the Level Select.
+
 Welcome 2 Madness is an introductory stage where enemies spawn to chase you and the layout is simple.
+
 Hopping Mad Mummies takes place in ruins, where the orange bounce pads act as ramps for the player to make jumps.
+
 Laserbud Garden is a lush jungle level, with laser-spewing flowerbuds and tight platforming impeding your progress. There's even a checkpoint on this stage!
+
 Bonus Bash is a final, rather simple celebration stage, where you just need to collect coins in a simple pachinko machine. Here lives are recontextualized as chances to nab those coins! You've only got three!
 
 VIII. Characters
