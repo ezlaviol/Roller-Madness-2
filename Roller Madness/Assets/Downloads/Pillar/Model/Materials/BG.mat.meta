@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 283efbe9566381249820af162e9a3c03
+timeCreated: 1488712819
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 34670
+  packageName: Stone Pillar
+  packageVersion: 6.0
+  assetPath: Assets/Pillar/Model/Materials/BG.mat
+  uploadId: 215360

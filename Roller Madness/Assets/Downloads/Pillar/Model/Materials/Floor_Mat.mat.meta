@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f17dedf74c4d9134a81b7e8148bb2134
+timeCreated: 1488499821
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 34670
+  packageName: Stone Pillar
+  packageVersion: 6.0
+  assetPath: Assets/Pillar/Model/Materials/Floor_Mat.mat
+  uploadId: 215360

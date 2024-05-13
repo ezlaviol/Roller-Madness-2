@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3947a527c811bac41ad847252a30f6b4
+timeCreated: 1488499320
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 34670
+  packageName: Stone Pillar
+  packageVersion: 6.0
+  assetPath: Assets/Pillar/Scenes/Pillar.unity
+  uploadId: 215360

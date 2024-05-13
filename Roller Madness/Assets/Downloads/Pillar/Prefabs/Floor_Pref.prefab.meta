@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9b86bcc0468a294a85b6a142e296307
+timeCreated: 1488499776
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 34670
+  packageName: Stone Pillar
+  packageVersion: 6.0
+  assetPath: Assets/Pillar/Prefabs/Floor_Pref.prefab
+  uploadId: 215360

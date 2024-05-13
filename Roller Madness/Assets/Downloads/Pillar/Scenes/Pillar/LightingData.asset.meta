@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30ed3c99591e15f40b9e528d8a6053d0
+timeCreated: 1511697201
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 34670
+  packageName: Stone Pillar
+  packageVersion: 6.0
+  assetPath: Assets/Pillar/Scenes/Pillar/LightingData.asset
+  uploadId: 215360
